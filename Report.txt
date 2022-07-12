@@ -1,0 +1,28 @@
+Hello, I'd like to report this server. They're violating community servers rules, and using a bunch of plugins not allowed at community tab.
+
+Server name: [BR/LATAM] SÃO PAULO 2.0 VANILLA X2 MAX 5 WP 19/03
+Category: Community
+Address: 35.247.216.9:28015
+
+https://www.battlemetrics.com/servers/rust/14640884
+
+List of plugins that they are using:
+
+UIPlus
+MagicLoot
+SpawnMini
+Backpacks
+GatherManager
+Skinbox
+FurnaceSplitter
+QuickSmelt
+RecyclerSpeed
+MagicMessagePanel
+AutoBroadcast
+FreeRT
+SignArtists
+BlueprintManager
+LoadingMessages
+and more..
+
+It's not fair to keep their server running at community tab. And also they were banned from community already and openned again changing IP.
